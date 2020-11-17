@@ -1,18 +1,5 @@
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <title>Bootstrap Example</title>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-</head>
-<body>
-
-<div class="container">
-  <h2>Gallery</h2>
+<h2>Gallery</h2>
   <p>The .thumbnail class can be used to display an image gallery.</p>
   <p>The .caption class adds proper padding and a dark grey color to text inside thumbnails.</p>
   <p>Click on the images to enlarge them.</p>
@@ -48,7 +35,7 @@
       </div>
     </div>
   </div>
-</div>
+
 
 </body>
 </html>
