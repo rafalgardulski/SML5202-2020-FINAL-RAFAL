@@ -1,6 +1,3 @@
-<h1>Page 2</h1>
-<p>Some content</p>
-
 
 <!DOCTYPE html>
 <html lang="en">
@@ -15,7 +12,7 @@
 <body>
 
 <div class="container">
-  <h2>Image Gallery</h2>
+  <h2>Gallery</h2>
   <p>The .thumbnail class can be used to display an image gallery.</p>
   <p>The .caption class adds proper padding and a dark grey color to text inside thumbnails.</p>
   <p>Click on the images to enlarge them.</p>
