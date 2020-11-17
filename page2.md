@@ -19,7 +19,7 @@
         <a href="/w3images/lights.jpg" target="_blank">
           <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Brandenburger_Tor_abends.jpg" alt="Lights" style="width:100%">
           <div class="caption">
-            <p>Berlin, Germany.</p>
+            <p>Brandenburg Gate, Berlin, Germany</p>
           </div>
         </a>
       </div>
@@ -29,7 +29,7 @@
         <a href="/w3images/nature.jpg" target="_blank">
           <img src="images/Germany.png" alt="Nature" style="width:100%">
           <div class="caption">
-            <p>German Flag.</p>
+            <p>German Flag</p>
           </div>
         </a>
       </div>
@@ -39,7 +39,7 @@
         <a href="/w3images/fjords.jpg" target="_blank">
           <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/EU-Germany.svg" alt="Fjords" style="width:100%">
           <div class="caption">
-            <p>Germany</p>
+            <p>Map of Germany</p>
           </div>
         </a>
       </div>
