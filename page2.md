@@ -23,9 +23,9 @@
     <div class="col-md-4">
       <div class="thumbnail">
         <a href="/w3images/lights.jpg" target="_blank">
-          <img src="/w3images/lights.jpg" alt="Lights" style="width:100%">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Brandenburger_Tor_abends.jpg" alt="Lights" style="width:100%">
           <div class="caption">
-            <p>Lorem ipsum donec id elit non mi porta gravida at eget metus.</p>
+            <p>Berlin, Germany.</p>
           </div>
         </a>
       </div>
@@ -35,7 +35,7 @@
         <a href="/w3images/nature.jpg" target="_blank">
           <img src="images/Germany.png" alt="Nature" style="width:100%">
           <div class="caption">
-            <p>Lorem ipsum donec id elit non mi porta gravida at eget metus.</p>
+            <p>German Flag.</p>
           </div>
         </a>
       </div>
@@ -43,9 +43,9 @@
     <div class="col-md-4">
       <div class="thumbnail">
         <a href="/w3images/fjords.jpg" target="_blank">
-          <img src="/w3images/fjords.jpg" alt="Fjords" style="width:80%">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/EU-Germany.svg" alt="Fjords" style="width:100%">
           <div class="caption">
-            <p>Lorem ipsum donec id elit non mi porta gravida at eget metus.</p>
+            <p>Germany</p>
           </div>
         </a>
       </div>
