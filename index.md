@@ -40,11 +40,11 @@ Explore the content of the website and find you favourite language learning acti
 </div>
 
 <h3>Videos</h3>
-<iframe width="420" height="345" src="https://www.youtube.com/embed/wuClZjOdT30">
+<iframe width="400" height="300" src="https://www.youtube.com/embed/wuClZjOdT30">
 </iframe>
 
-<iframe width="420" height="345" src="https://www.youtube.com/embed/vT_pivwPsTA">
+<iframe width="400" height="300" src="https://www.youtube.com/embed/vT_pivwPsTA">
 </iframe>
 
-<iframe width="420" height="345" src="https://www.youtube.com/embed/SzN548NV6ns">
+<iframe width="400" height="300" src="https://www.youtube.com/embed/SzN548NV6ns">
 </iframe>
