@@ -11,7 +11,7 @@
 </ol>  
 
 <h4>Professions</h4>
-<h5>Please note that when the words have the -in ending the professions is performed by woman</h5>
+<h5>Please note that when the words have the -in ending the profession is performed by woman</h5>
 <ol>
   <li>die Arzt- doctor</li>
   <li>die Lehrerin- teacher</li>
