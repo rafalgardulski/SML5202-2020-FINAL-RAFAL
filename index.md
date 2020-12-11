@@ -1,5 +1,5 @@
 <h1>Welcome to German language</h1>
-<p>This website provides you with different activities to boost your knowledge of German</p>
+<p>This website provides you with different activities to boost your knowledge of German vocabulary</p>
 Explore the content of the website and find you favourite language learning activity
 
 <div class="container">
