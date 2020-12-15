@@ -49,7 +49,7 @@
 
     
   <div class="iframe-container">
-<iframe class="responsive-iframe" id="ifrm" src="https://www.cram.com/flashcards/flashcards-11858303">
+<iframe class="responsive-iframe" id="ifrm" src="https://www.cram.com/flashcards/games/jewel/flashcards-11858303">
   <p>Your browser does not support iframes.</p>
   </iframe>
   </div>
