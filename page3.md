@@ -37,7 +37,7 @@
 </style>
 
 <h1>Embedded Language Game</h1>
-<p>Use this flashcards to practise vocabulary from this website. Than you can also play games, which accompany these flashacrds for some fun learning experience!</p>
+<p><b>Choose the best game to make the most of you language leraning experience!</b></p>
 <p>You can also create you own study sets, on the <a href="https://www.cram.com/">Cram website</a></p>
 
 <p>Select the game type from the dropdown to try it:  
