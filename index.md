@@ -1,6 +1,7 @@
 <h1>Welcome to German language</h1>
 <p><b>This website provides you with different activities to boost your knowledge of German vocabulary if you are a biginner!</b></p>
-<p><b>Explore the enjoyable content of the website and find you favourite language learning activity. On the homepage you can explore different information about Germany, see photos and watsch some videos. When you want to start learning the vocabulary begin by familiarising yourself with the list. Than you can practice with with different exercises and listening comprehention. You can also play games to make learning even more fun. </b></p>
+<p><b>Explore the enjoyable content of the website and find you favourite language learning activity. On the homepage you can explore different information about Germany, see photos and watch videos about the German geography, why is it worth to learn German and top German destinations to travel to. You can also find a video of Annik Rubens, a German native speaker, who makes podcasts. Her content is great for learning German as she speaks very slow and cleraly. </b></p>
+<p><b>When you want to start learning the vocabulary begin by familiarising yourself with the list. Than you can practice with with different exercises and listening comprehention. You can also play games to make learning even more fun. </b></p>
 
 <div class="container">
   <h2>Gallery</h2>
