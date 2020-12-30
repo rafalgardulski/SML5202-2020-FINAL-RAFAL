@@ -66,7 +66,7 @@
 <iframe width="400" height="300" src="https://www.nachrichtenleicht.de">
 </iframe>
 
-<iframe width="400" height="300" src="https://en.wikipedia.org/wiki/Germany">
+<iframe width="400" height="300" src="https://www.britannica.com/place/Germany">
 </iframe>
 
 
