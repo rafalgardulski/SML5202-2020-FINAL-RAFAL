@@ -66,7 +66,7 @@
 <iframe width="400" height="300" src="https://www.nachrichtenleicht.de">
 </iframe>
 
-<iframe width="400" height="300" src="https://www.tatsachen-ueber-deutschland.de/en/germany-glance">
+<iframe width="400" height="300" src="https://www.tatsachen-ueber-deutschland.de/en">
 </iframe>
 
 
