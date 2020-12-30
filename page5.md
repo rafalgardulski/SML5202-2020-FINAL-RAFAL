@@ -42,7 +42,7 @@
 <p><b>Choose the best game to make the most of you language leraning experience!</b></p>
 <p>You can also create you own study sets, on the <a href="https://www.cram.com/">Cram website</a></p>
 <p>Matching game- match terms in German with their English equivalent and earn points.</p>
-<p>Shooter game- at the top of the screen the particular term will appear. The approaching asteroids will have letters on them. You need to shoot the correct letters with the spaceship. To navigate the ship use keyboard arrow keys. To shoot down the asteroid use the space button on the keyboard.
+<p>Shooter game- at the top of the screen the particular term will appear. The approaching asteroids will have letters on them. You need to shoot the correct letters with the spaceship. To navigate the ship use keyboard arrow keys. To shoot down the asteroid use the space button on the keyboard. You can also use the trackpad or mouse to navigate the spaceship and shoot asteroids.
 
 <p>Select the game type from the dropdown to try it:  
   <select name="" id="list" onclick="loadFrame()">
