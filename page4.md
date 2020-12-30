@@ -1,7 +1,7 @@
 
 <h1>Listening Comprehention</h1>
 
-<p><b>This section will help you to learn the pronounciation of words. It will be especially useful for you if you are an audio learner, but not only!</b></p>
+<p>This section will help you to learn the pronounciation of words. It will be especially useful for you if you are an audio learner, but not only!</p>
 
 <br>
 
