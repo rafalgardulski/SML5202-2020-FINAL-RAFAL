@@ -45,12 +45,20 @@
 
 
 <h3>Videos</h3>
+<p>German geography.</p>
+
 <iframe width="400" height="300" src="https://www.youtube.com/embed/wuClZjOdT30">
 </iframe>
+<p>Why to learn German?</p>
 
 <iframe width="400" height="300" src="https://www.youtube.com/embed/vT_pivwPsTA">
 </iframe>
 
+<p>Top German destinations to travel to.</p>
+
 <iframe width="400" height="300" src="https://www.youtube.com/embed/SzN548NV6ns">
 </iframe>
 
+<p>Video of Annik Rubens, a German native speaker, who makes podcasts. Her content is great for learning German as she speaks very slow and cleraly.</p>
+<iframe width="400" height="300" src="https://www.youtube.com/embed/aMNKlv1Ipwg">
+</iframe>
