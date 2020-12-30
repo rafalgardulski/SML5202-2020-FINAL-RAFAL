@@ -39,6 +39,11 @@
   </div>
 </div>
 
+<h3>News</h3>
+<iframe width="400" height="300" src="https://www.nachrichtenleicht.de">
+</iframe>
+
+
 <h3>Videos</h3>
 <iframe width="400" height="300" src="https://www.youtube.com/embed/wuClZjOdT30">
 </iframe>
@@ -49,5 +54,3 @@
 <iframe width="400" height="300" src="https://www.youtube.com/embed/SzN548NV6ns">
 </iframe>
 
-<iframe width="400" height="300" src="https://www.nachrichtenleicht.de">
-</iframe>
