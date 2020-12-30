@@ -1,5 +1,5 @@
 <h1>Welcome to German language</h1>
-<p><b>This website provides you with different activities to boost your knowledge of German vocabulary</b></p>
+<p><b>This website provides you with different activities to boost your knowledge of German vocabulary!</b></p>
 <p><b>Explore the content of the website and find you favourite language learning activity. On the homepage you can explore different information about Germany, see photos and watsch some videos. When you want to start learning the vocabulary begin by familiarising yourself with the list. Than you can practice with with different exercises and listening comprehention. You can also play games to make learning even more fun. </b></p>
 
 <div class="container">
