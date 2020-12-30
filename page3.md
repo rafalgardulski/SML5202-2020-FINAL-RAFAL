@@ -1,6 +1,6 @@
 
 <h1>Memory games</h1>
-<p>This section will help you to memorise the vocabulary with different exercises. It is great for you if you are a visual or a tacticle learner.</p>
+<p>This section will help you to memorise the vocabulary with different exercises. It is great for you if you are a visual or a tactile learner.</p>
 <br>
 <p><b>1. Match images with their vocabulary equivalent</b></p>
 
