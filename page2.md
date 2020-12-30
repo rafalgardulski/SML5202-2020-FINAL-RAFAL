@@ -1,6 +1,6 @@
 
 <h2>List of vocabulary</h2>
-<h3>Below you can find all of the vocabulary used in different exercises</h3>
+<h3>Below you can find the vocabulary used in different exercises</h3>
 
 <h4>Animals</h4>
 <ol>
